@@ -43,9 +43,9 @@ public class Mizoram {
 		System.out.println();
 		
 		System.out.println();
-		System.out.println("Example of Spring Remoting using Application Context");
+		System.out.println("Example of Spring Remoting (Remote Method Invocation");
 		System.out.println("----------------------------------------------------");
-		
+		System.out.println("000. You may choose to Import the Project in Eclipse / Other IDE");
 		System.out.println("000. Make Sure that Dependencies & Resources are in ClassPath");
 		System.out.println("01a. Start the RMI Server From Eclipse or from Command Line");
 		System.out.println("01b. RMI Server Class - SpringRMIServer");
